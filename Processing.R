@@ -153,4 +153,6 @@ df<-d %>%
 
 
 write.csv(df, "df.csv")
-    
+
+
+install.packages("mice")
